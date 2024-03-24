@@ -1,27 +1,30 @@
-*{
-    padding: 0;
-}
-body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-transform: uppercase;
-    max-width: 1920px;
-} 
-.navbar {
-    background-color: #77021a;
+.navbar,
+.footer{
+    background-color:  #760b0bee;
 }
 
+.art-1{
+    background-color: #315799;
+}
+.art-2{
+    background-color: #4e4e4e;
+}
+.art-3{
+    background-color: #7c727b;
+}
+
+.redes{
+    color:  #760b0bee;
+}
 h1{
-   color: #77021a; 
+    color:  #760b0bee;
 }
-footer{
-    background-color: #77021a; 
-    
- }
-
-@media (max-width: 800px) {
-    .navbar-nav {
-      text-align: center;
-    }
+#carreras input{
+    background-color:  #760b0bee;
+}
+#carreras p{
+   font-size:smaller;
+}
+#notice-container input{
+    background-color:  #760b0bee;
 }
